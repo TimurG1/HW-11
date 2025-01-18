@@ -1,7 +1,8 @@
 
 .text{
-    display: inline-block;
+    display: inline-flex;
     box-sizing: border-box;
+    border: 2px;
     width: 350px;
     height: 220px;
     padding-top: 15px;
